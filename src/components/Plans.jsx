@@ -20,8 +20,8 @@ function Plans() {
                          <h1 className='font-semibold'>Starter</h1>
                          <p className='text-sm my-3 text-gray-400'>This package offers the basic features you need to get started</p>
                          <p className='text-lg font-semibold'>$39 <span className='text-sm text-gray-400 font-normal'>/month</span></p>
-                         <button className='text-sm border rounded-full w-72 mx-2 md:mx-3 md:w-64 p-1 my-2 '>Get Started</button>
-                         <p className='text-center text-sm text-gray-400 my-5'>................................ Features ....................................</p>
+                         <button className='text-sm border rounded-full w-72 mx-1 md:mx-3 md:w-64 p-1 my-2 '>Get Started</button>
+                         <p className='text-center text-sm text-gray-400 my-5'>.......................... Features ..............................</p>
                          <div className='flex my-2'>
                               <BsCheck size={10} className='bg-white text-black  mt-1 rounded-full' />
                               <p className='text-sm mx-2'>Production up to 10,000 units per month</p>
@@ -43,8 +43,8 @@ function Plans() {
                          <h1 className='font-semibold'>Enterprise</h1>
                          <p className='text-sm my-3 text-gray-400'>This package provides full access to all premium features</p>
                          <p className='text-lg font-semibold'>$99 <span className='text-sm text-gray-400 font-normal'>/month</span></p>
-                         <button className='text-sm border rounded-full w-72 mx-2 md:mx-3 md:w-64 p-1 my-2 '>Get Started</button>
-                         <p className='text-center text-sm text-gray-400 my-5'>................................ Features ....................................</p>
+                         <button className='text-sm border rounded-full w-72 mx-1 md:mx-3 md:w-64 p-1 my-2 '>Get Started</button>
+                         <p className='text-center text-sm text-gray-400 my-5'>.......................... Features ..............................</p>
                          <div className='flex my-2'>
                               <BsCheck size={10} className='bg-white text-black mt-1 rounded-full' />
                               <p className='text-sm mx-2'>Unlimited production units</p>

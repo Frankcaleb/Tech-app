@@ -17,7 +17,7 @@ function Hero() {
     
     className=' md:flex md:justify-center py-10 px-3 md:px-20'>
         <img src={gallery} alt="" className='w-40 mx-36 md:mx-0 h-56 rounded-2xl' />
-        <div className='bg-cyan-950 text-white md:w-28 md:h-36 py-10 md:py-5  mx-44 md:mx-5 md:my-20 md:px-5 rounded-lg text-center my-10'>
+        <div className='bg-cyan-950 text-white w-28 md:h-36 py-10 md:py-5  mx-44 md:mx-5 md:my-20 md:px-5 rounded-lg text-center my-10'>
           <h1 className='font-semibold text-xl'>100+</h1>
           <p className='text-sm '>Our Esteemed clients and partners</p>
         </div>
@@ -30,7 +30,7 @@ function Hero() {
           <h1 className='font-semibold text-xl'>1951+</h1>
           <p className='text-sm text-gray-400'>increase of <span>120</span> this month</p>
         </div>
-        <div className='bg-lime-300 md:h-36 py-10 md:py-7  mx-44 md:w-28 md:mx-5 md:my-20 md:px-5 rounded-lg text-center my-10'>
+        <div className='bg-lime-300 md:h-36 py-10 md:py-7  mx-44 w-28  md:mx-5 md:my-20 md:px-5 rounded-lg text-center my-10'>
           <h1 className='font-semibold text-xl'>6+</h1>
           <p className='text-sm'>Years of Dedicated Service</p>
         </div>
